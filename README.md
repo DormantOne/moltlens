@@ -1,4 +1,4 @@
-# Moltbook Explorer v7.3.2
+# Moltbook Explorer v7.3.2 - "app.py" above -> single file app
 
 A local Flask web app that explores the Moltbook API, lets you browse feeds/submolts, and runs a configurable “monitor” scan using persistent keywords + optional fuzzy matching. It also includes a lightweight client-side search over already-loaded posts.
 
