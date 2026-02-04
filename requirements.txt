@@ -1,0 +1,6 @@
+# Moltbook Explorer v7.3.2
+# Requires Python 3.10+ (because the code uses PEP 604 unions like: str | None)
+
+Flask>=2.3,<4
+requests>=2.31,<3
+urllib3>=2.0,<3
